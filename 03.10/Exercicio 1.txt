@@ -1,0 +1,7 @@
+1) O código a seguir tem como função: Empilhe uma sequência de valores inteiros.
+Quando for informado o valor -1 (termino da execução) o algoritmo cria duas novas
+pilhas separando valores pares dos valores ímpares.
+a) Teste os códigos apresentados fazendo a digitação do código e tentando entender
+cada uma das linhas de comandos
+b) Faça alguns prints dos testes executados
+c) O programa usou recursividade? Se sim onde foi usado?

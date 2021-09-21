@@ -1,0 +1,11 @@
+3) Dado o seguinte enunciado:
+
+    Implemente um programa em C que utiliza a estrutura
+    apresenta para implementar uma lista. O programa
+    deve mostrar ao usuário duas opções. Se o usuário
+    escolher 1, a lista deve ser impressa; se escolher 2, ele
+    deve entrar com o valor do conteúdo do novo elemento da
+    lista.
+
+    a) Digite os códigos apresentados procurando entender o que foi feito
+    b) Coloque prints da execução dos códigos apresentados.

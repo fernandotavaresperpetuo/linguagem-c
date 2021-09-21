@@ -1,0 +1,4 @@
+2) A partir do código a seguir:
+a) Digite os códigos apresentados procurando entender o que foi feito
+b) Em sua opinião o que estes códigos implementam?
+c) Coloque prints da execução dos códigos apresentados.
